@@ -268,6 +268,8 @@ body{
     }
     .title-desc{
         font-size: 1rem;
+        -webkit-text-stroke: 0.05vw var(--white);
+        text-stroke: 0.05vw var(--white);
     }
     .main-visual .main-visual-inner .main-visual-title::before{
         left: 70px;
