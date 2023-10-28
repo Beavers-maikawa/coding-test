@@ -813,6 +813,11 @@ button{
     }
 }
 /* footer */
+.back-to-top{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
 .footer{
     width: 100%;
     background-color: var(--main-color);
